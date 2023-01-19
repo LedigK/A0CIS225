@@ -1,0 +1,5 @@
+Katharine,Ledig,Avatar,James Cameron,2009,7.9,82/100,PG-13
+Katharine,Ledig,Avatar 2,James Cameron,2023,7.9,77/100,PG-13
+Katharine,Ledig,Life,Ted Demme,1999,6.7,67/100,R
+Katharine,Ledig,Lovely Bones,Peter Jackson,2009,6.6,31/100,PG-13
+Katharine,Ledig,The Goonies,Richard Donner,1985,7.7,76/100,PG
